@@ -1,3 +1,8 @@
+<h1 align="center", color = "green">STEPS OF NATURAL LANGUAGE PROCESSING</h1>
+<p align="center">
+  <img src="https://github.com/Doguhannilt/Steps-Of-NLP/assets/77373443/c9f7f3f1-c21d-4559-9ab4-647f75db86d3" />
+</p>
+
 <h1>Problem Definition:</h1>
 
 <li>Identify the specific NLP task you want to solve, such as sentiment analysis, text summarization, or question answering.
